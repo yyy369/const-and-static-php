@@ -12,7 +12,7 @@ $p1= new person();
 $p1->setsex('male');
 $p1->setsex(1);
 $p1->setsex(person::sex_male);
-
+//以上皆可给性别赋值为男
 
 
 
